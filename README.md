@@ -4,3 +4,4 @@ Creación de una aplicación informativa para el domo digital chimalhuacan por:
 ### Encargados de proyecto
 * Olvera Aviles Aurelio Daniel -> jefe de proyecto y programador 
 * Torres Ortega Jennifer Ackira -> Encargada de Análisis y documentación de proyecto 
+(https://github.com/ackira/App_Domo/blob/master/pDchi.png)
