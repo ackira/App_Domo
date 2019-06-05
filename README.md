@@ -2,12 +2,12 @@
 Creación de una aplicación informativa para el domo digital chimalhuacan por:
 ## cre-app
 ### Equipo de desarrollo
-* Olvera Aviles Aurelio Daniel -> jefe de proyecto y programador.
-** TELEFONO-> 55-6513-7519
-** CORREO-> Aviles.olvera290@gmail.com      
-* Torres Ortega Jennifer Ackira -> Encargada de Análisis y documentación de proyecto.
-** TELEFONO-> 55-3981-6325
-** CORREO-> Ackira.to@gmail.com 
+#### Olvera Aviles Aurelio Daniel -> jefe de proyecto y programador.
+* TELEFONO-> 55-6513-7519
+* CORREO-> Aviles.olvera290@gmail.com      
+#### Torres Ortega Jennifer Ackira -> Encargada de Análisis y documentación de proyecto.
+* TELEFONO-> 55-3981-6325
+* CORREO-> Ackira.to@gmail.com 
 ![alt text](https://github.com/ackira/App_Domo/blob/master/pDchi.png)
 # RESUMEN
 En el transcurso del año pasado, en el domo digital Chimalhuacán hubo una afluencia de 550,000 visitantes, este es un centro de divulgación científica, pero requiere de una aplicación que ayude a que la divulgación de la ciencia y tecnología llegue a más personas.
