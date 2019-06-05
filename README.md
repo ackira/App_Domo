@@ -21,7 +21,7 @@ Para lograr una buena Interfaz de usuario, tomamos en cuenta los siguientes punt
 -	Debe contener poco texto
 -	Su funcionamiento debe ser comprensible
 -	No debe parecer el diseño de una página web
-La aplicación constará de 7 pantallas:
+#### La aplicación constará de 7 pantallas:
 -	3 de carga
 -	1 menú principal
 -	1 menú secundario, el cual redireccionará a la información de cada sala
