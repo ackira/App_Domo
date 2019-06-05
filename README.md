@@ -29,9 +29,9 @@ Para lograr una buena Interfaz de usuario, tomamos en cuenta los siguientes punt
 -	1 pantalla informativa con la información relevante de la sala seleccionada por el usuario
 ### Características de la aplicación
 * VERSIÓN 1.0
-version mínima de android soportada: 
+#### version mínima de android soportada: 
 -> 5.0
-licencia: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+#### licencia: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 ### Proceso de instalación en android
 En la carpeta llamada apk de este repositorio se encuentra el archivo de instalación.
 - descarga el archivo en su dispositivo movil
