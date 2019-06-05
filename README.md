@@ -37,4 +37,5 @@ En la carpeta llamada apk de este repositorio se encuentra el archivo de instala
 - descarga el archivo en su dispositivo movil
 - lo ejecuta
 - acepta la instalación
-* debe de configurar su dispositivo para que este acepte aplicaciones de origenes desonocidos
+
+*debe de configurar su dispositivo para que este acepte aplicaciones de origenes desonocidos* 
